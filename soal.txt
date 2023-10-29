@@ -1,0 +1,4 @@
+Buat masing masing soal,
+1. Data kurang dari 30
+Sampai soal frekuensi relatif
+2. data besar sama dengan = 30
