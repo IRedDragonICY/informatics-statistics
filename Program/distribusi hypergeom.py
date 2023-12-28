@@ -7,9 +7,9 @@ subscript   = str.maketrans("0123456789()", "₀₁₂₃₄₅₆₇₈₉₍�
 superscript = str.maketrans("0123456789()", "⁰¹²³⁴⁵⁶⁷⁸⁹⁽⁾")
 
 N = 10
-n = 3
-k = 4
-x = [i for i in range(0, 1+1)]
+n = 5
+k = 8
+x = [i for i in range(0, 2+1)]
 h = hypergeom(N, n, k)
 
 
